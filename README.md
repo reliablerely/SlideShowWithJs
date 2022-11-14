@@ -1,5 +1,5 @@
 ###
-This is a Slideshoe created with HTML, CSS and Javascript
+This is a Slideshow created with HTML, CSS and Javascript
 ###
 There are six images in the slidewhow styled to occupy 100% width of the page
 ###
