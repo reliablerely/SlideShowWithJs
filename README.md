@@ -8,4 +8,5 @@ On clicking the icons, it should show the next/previous image.
 ###
 When the next icon on the last image is clicked, it shows the first image.
 When the previous icon on the first image is clicked, it shows the last image.
- 
+###
+Here is a link to the published work: https://reliablerely.github.io/SlideShowWithJs/
